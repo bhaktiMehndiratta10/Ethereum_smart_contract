@@ -1,4 +1,4 @@
-# Module2_MetaCrafters_Bhakti
+# Blockchain_Metacrafters_Module
 
 The MyToken contract is an Ethereum smart contract that implements a basic token functionality. It allows for the creation, minting, and burning of a custom token.
 
