@@ -19,11 +19,11 @@ TOTAL SUPPLY INQUIRY: getTotalSupply(): A function to retrieve the total supply 
 USAGE: Deploy the MyToken contract on an Ethereum network.
 
 INTERACT with the contract using the following functions: function mint(address _address, uint _value) public; - Use the mint function to create and distribute new tokens to addresses
+    
+    function burn(address _address, uint _value) public; - Use the burn function to destroy tokens held by addresses
+    
+    function getBalance(address _address) public view returns (uint); - Use the getBalance function to query the balance of a specific address
+    
+    function getTotalSupply() public view returns (uint); - Use the getTotalSupply function to query the total supply of the token
 
-function burn(address _address, uint _value) public; - Use the burn function to destroy tokens held by addresses
 
-function getBalance(address _address) public view returns (uint); - Use the getBalance function to query the balance of a specific address
-
-function getTotalSupply() public view returns (uint); - Use the getTotalSupply function to query the total supply of the token
-
-This code is licensed under the MIT License.
