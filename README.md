@@ -12,7 +12,7 @@ FEATURES-
 
 4. BURN FUNCTION: burn(address _address, uint _value): A function that burns (destroys) tokens held by a specified address. Requires that the balance of the _address is greater than or equal to _value. Decreases the total supply by the given _value. Decreases the balance of the specified _address by _value.
 
-BALANCE INQUIRY: getBalance(address _address): A function to retrieve the token balance of a specified address. Returns the token balance of the given _address.
+5. BALANCE INQUIRY: getBalance(address _address): A function to retrieve the token balance of a specified address. Returns the token balance of the given _address.
 
 TOTAL SUPPLY INQUIRY: getTotalSupply(): A function to retrieve the total supply of the token. Returns the total supply of the token.
 
