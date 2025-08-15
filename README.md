@@ -8,7 +8,7 @@ FEATURES-
 
 2.BALANCES MAPPING: balances: A mapping of Ethereum addresses to their respective token balances.
 
-MINT FUNCTION: mint(address _address, uint _value): A function that mints new tokens and assigns them to a specified address. Increases the total supply by the given _value. Increases the balance of the specified _address by _value.
+3. MINT FUNCTION: mint(address _address, uint _value): A function that mints new tokens and assigns them to a specified address. Increases the total supply by the given _value. Increases the balance of the specified _address by _value.
 
 BURN FUNCTION: burn(address _address, uint _value): A function that burns (destroys) tokens held by a specified address. Requires that the balance of the _address is greater than or equal to _value. Decreases the total supply by the given _value. Decreases the balance of the specified _address by _value.
 
