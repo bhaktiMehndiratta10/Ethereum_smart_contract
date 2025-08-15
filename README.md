@@ -4,7 +4,7 @@ The MyToken contract is an Ethereum smart contract that implements a basic token
 
 FEATURES-
 
-TOKEN INFORMATION: tokenName: A public variable storing the name of the token. tokenAbbrv: A public variable storing the abbreviation or symbol of the token. totalSupply: A public variable storing the total supply of the token.
+1.TOKEN INFORMATION: tokenName: A public variable storing the name of the token. tokenAbbrv: A public variable storing the abbreviation or symbol of the token. totalSupply: A public variable storing the total supply of the token.
 
 BALANCES MAPPING: balances: A mapping of Ethereum addresses to their respective token balances.
 
