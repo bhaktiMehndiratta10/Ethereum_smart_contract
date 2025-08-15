@@ -6,7 +6,7 @@ FEATURES-
 
 1.TOKEN INFORMATION: tokenName: A public variable storing the name of the token. tokenAbbrv: A public variable storing the abbreviation or symbol of the token. totalSupply: A public variable storing the total supply of the token.
 
-BALANCES MAPPING: balances: A mapping of Ethereum addresses to their respective token balances.
+2.BALANCES MAPPING: balances: A mapping of Ethereum addresses to their respective token balances.
 
 MINT FUNCTION: mint(address _address, uint _value): A function that mints new tokens and assigns them to a specified address. Increases the total supply by the given _value. Increases the balance of the specified _address by _value.
 
