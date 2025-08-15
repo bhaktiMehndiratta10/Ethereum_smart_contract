@@ -14,7 +14,7 @@ FEATURES-
 
 5. BALANCE INQUIRY: getBalance(address _address): A function to retrieve the token balance of a specified address. Returns the token balance of the given _address.
 
-TOTAL SUPPLY INQUIRY: getTotalSupply(): A function to retrieve the total supply of the token. Returns the total supply of the token.
+6. TOTAL SUPPLY INQUIRY: getTotalSupply(): A function to retrieve the total supply of the token. Returns the total supply of the token.
 
 USAGE: Deploy the MyToken contract on an Ethereum network.
 
